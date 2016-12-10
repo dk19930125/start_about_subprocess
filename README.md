@@ -9,7 +9,7 @@ pi autostart
 #start.sh
 
 
-`#! /bin/sh
+*#! /bin/sh
 
 export PATH=$PATH:/usr/local/bin
 
