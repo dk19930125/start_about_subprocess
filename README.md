@@ -4,12 +4,12 @@ pi autostart
 
 
 
-####使用进程启动效果等与 sh start.sh
+使用进程启动效果等与 sh start.sh
 
 #start.sh
 
 
-#! /bin/sh
+`#! /bin/sh
 
 export PATH=$PATH:/usr/local/bin
 
