@@ -17,6 +17,5 @@ cd /path/
 
 nohup python project.py >> run_status.log 2>&1 &
 
-<<<<<<< Updated upstream
 ```
 
