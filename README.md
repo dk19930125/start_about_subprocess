@@ -6,7 +6,7 @@ pi autostart
 
 ####使用进程启动效果等与 sh start.sh
 
-start.sh
+#start.sh
 
 
 #! /bin/sh
