@@ -17,6 +17,13 @@ cd /path/
 
 nohup python project.py >> run_status.log 2>&1 &
 
+<<<<<<< Updated upstream
 TEST000
 
 I WANT TO SAY
+=======
+TEST0
+
+
+YOU 
+>>>>>>> Stashed changes
